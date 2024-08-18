@@ -19,24 +19,11 @@ In this project we developed RESTFUL API using Node.js, Express.js and mongoose.
 We have collected data from NASA `OMNIWEB` and `NOAA` for `DSCOVR` satellite Datasets.
 Collected data cleaned and transformed to JSON for our api modeling.
 <br/>
-
-### Database Datalimits:
-
+Our Database Datalimits:
 <br/>
-
-`For sphere:`
-
-```js
-01 January 2023 to 05 march 2023
-```
-
+<b style="color:red;"> For sphere: 01 January 2023 to 5march 2023</b>
 <br/>
-
-`For Geomanetic parameter:`
-
-```js
-01 January 2022 to 31 december 2022
-```
+<b style="color:red;">For Geomanetic parameter: 01 January 2022 to 31 december 2022</b>
 
 ## Get list of DSCOVRS data
 
