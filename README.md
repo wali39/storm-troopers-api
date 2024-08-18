@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this project we developed RESTFUL API using Node.js, Express.js and mongoose.js for NASA SPACE APPS CHALLENGE 2023
+In this project we developed RESTFUL API using node.js, express.js and mongoose.js for `NASA SPACE APPS CHALLENGE 2023`
 
 ## Tools
 
