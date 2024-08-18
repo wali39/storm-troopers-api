@@ -16,14 +16,27 @@ In this project we developed RESTFUL API using Node.js, Express.js and mongoose.
 
 # REST API
 
-We have collected data from NASA OMNIWEB and NOAA for DSCOVR satellite Datasets.
+We have collected data from NASA `OMNIWEB` and `NOAA` for `DSCOVR` satellite Datasets.
 Collected data cleaned and transformed to JSON for our api modeling.
 <br/>
-Our Database Datalimits:
+
+### Database Datalimits:
+
 <br/>
-<b style="color:red;"> For sphere: 01 January 2023 to 5march 2023</b>
+
+`For sphere:`
+
+```js
+01 January 2023 to 05 march 2023
+```
+
 <br/>
-<b style="color:red;">For Geomanetic parameter: 01 January 2022 to 31 december 2022</b>
+
+`For Geomanetic parameter:`
+
+```js
+01 January 2022 to 31 december 2022
+```
 
 ## Get list of DSCOVRS data
 
@@ -88,3 +101,4 @@ Our Database Datalimits:
 
 <h4><a href="https://github.com/wali39/stormtroppers">Storm Trooper App Repository</a></h4>
 <h4><a href="https://github.com/wali39/stormtroppers">Live Demo </a></h4>
+```
