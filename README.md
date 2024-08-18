@@ -22,9 +22,9 @@ Collected data cleaned and transformed to JSON for our api modeling.
 
 Our Database Datalimits:
 <br/>
-<b style="color:red"> `For sphere: 01 January 2023 to 5march 2023` </b>
-<br/>
-<b style="color:red">`For Geomanetic parameter: 01 January 2022 to 31 december 2022`</b>
+ `For sphere: <b>01 January 2023 to 5march 2023</b>` 
+ <br/>
+`For Geomanetic parameter: <b>01 January 2022 to 31 december 2022</b>`
 
 ## Get list of DSCOVRS data
 
