@@ -1,8 +1,7 @@
 const Sphere = require("../model/Sphere")
 const getShpere = (req, res) => {
-   
+
     const timestamps = decodeURIComponent(req.query.timestamps);
-    console.log(timestamps);
 
     Sphere.findOne({ timestamps }).then((data) => res.status(200).json(data))
 
