@@ -1,4 +1,4 @@
-# Storm-troopers-api-v1
+# Storm-troopers-api
 
 ## Introduction
 
